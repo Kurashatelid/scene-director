@@ -1,0 +1,131 @@
+{
+  "schema_version": 2,
+  "skill_version": "0.1.21",
+  "applied_skills": [],
+  "library_index_path": null,
+  "scene_id": null,
+  "title": null,
+  "stage": "script",
+  "brief": {
+    "idea": null,
+    "opening": null,
+    "turn": null,
+    "ending": null,
+    "language": null,
+    "duration_sec": null,
+    "aspect_ratio": null,
+    "engagement_design": {
+      "opening_hook": null,
+      "viewer_question": null,
+      "payoff": null,
+      "visual_or_audio_accent": null,
+      "status": "not_defined"
+    }
+  },
+  "script_versions": [],
+  "active_script_version": null,
+  "action_layers": [],
+  "focus_plan": {
+    "segments": [],
+    "rendered": false,
+    "review_status": "not_checked"
+  },
+  "brand_integration": {
+    "brand": null,
+    "club_name": null,
+    "visible_text": null,
+    "dialogue": null,
+    "status": "not_requested"
+  },
+  "decisions": [],
+  "pending_choices": [],
+  "stages": {
+    "script": "pending",
+    "previz": "pending",
+    "location": "pending",
+    "characters": "pending",
+    "props": "pending",
+    "assembly": "pending",
+    "trial": "pending",
+    "final": "pending"
+  },
+  "assets": [],
+  "handle_bindings": [],
+  "previz": {
+    "project_path": null,
+    "camera_path": null,
+    "browser_checked": false,
+    "exports": [],
+    "readiness": {
+      "ready": false,
+      "established": [],
+      "open_questions": [],
+      "checks": []
+    }
+  },
+  "audio": {
+    "mode": null,
+    "speakers": [],
+    "dialogue": [],
+    "ambience": [],
+    "sfx": [],
+    "music": null
+  },
+  "jobs": [],
+  "spending": {
+    "currency": "USD",
+    "authorized_limit": null,
+    "entries": []
+  },
+  "review": {
+    "video_viewed": false,
+    "audio_heard": false,
+    "user_accepted": false,
+    "issues": []
+  },
+  "reviews": [],
+  "stale_outputs": [],
+  "next_action": null,
+  "lighting_plan": {
+    "sources": [],
+    "shadow_plan": [],
+    "rendered_features": [],
+    "planned_only_features": [],
+    "review_status": "not_checked",
+    "checks": []
+  },
+  "micro_movement_plan": {
+    "participants": [],
+    "rendered": false,
+    "review_status": "not_checked",
+    "checks": []
+  },
+  "community_feedback": {
+    "repository_url": null,
+    "status": "not_prepared",
+    "ideas": [],
+    "draft_path": null,
+    "user_approved": false,
+    "published_url": null
+  },
+  "generation_preflight": {
+    "spoken_language": null,
+    "visible_text_language": null,
+    "subtitle_language": null,
+    "service": null,
+    "model": null,
+    "input_bindings_verified": false,
+    "full_input_quote": null
+  },
+  "retention_reviews": [],
+  "preview_generation": {
+    "scope": "entire_episode",
+    "selected_model": null,
+    "lowest_cost_supported_config": null,
+    "quote": null,
+    "status": "not_prepared",
+    "job_ids": [],
+    "coverage_verified": false,
+    "user_feedback": []
+  }
+}
