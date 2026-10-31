@@ -1,0 +1,6 @@
+interface:
+  display_name: "Режиссёр сцены"
+  short_description: "От сценария и 3D-постановки до готового видео"
+  default_prompt: "Используй $scene-director: помоги создать видео по моей идее, предлагая по одному следующему шагу."
+policy:
+  allow_implicit_invocation: true
