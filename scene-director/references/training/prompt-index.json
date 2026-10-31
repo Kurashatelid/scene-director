@@ -1,0 +1,1616 @@
+{
+  "schema_version": 1,
+  "records": [
+    {
+      "id": "image-examples-001",
+      "title": "Soul Cinema / farmhouse",
+      "source": "Image and Prompt Library.pdf",
+      "pages": [
+        2
+      ],
+      "label": "PROMPT",
+      "category": "image-examples",
+      "stages": [
+        3
+      ],
+      "file": "image-examples.md",
+      "sha256": "fd8b5efa8c582cf9a97f1ec27cc23ad48a9ddf99ff6b7496c25811a797c64354"
+    },
+    {
+      "id": "image-examples-002",
+      "title": "Soul Cinema / sunlit interior",
+      "source": "Image and Prompt Library.pdf",
+      "pages": [
+        3
+      ],
+      "label": "PROMPT",
+      "category": "image-examples",
+      "stages": [
+        3
+      ],
+      "file": "image-examples.md",
+      "sha256": "9f6604323d343cec81cc488dd70cc7f5957cc7ef608fd149434ee6913e8c6ed6"
+    },
+    {
+      "id": "image-examples-003",
+      "title": "Soul Cinema / lantern street",
+      "source": "Image and Prompt Library.pdf",
+      "pages": [
+        4
+      ],
+      "label": "PROMPT",
+      "category": "image-examples",
+      "stages": [
+        3
+      ],
+      "file": "image-examples.md",
+      "sha256": "041961e26f619ba383b08ccccfdc221ef6e65ba6c35b0cb716b7befacbec2460"
+    },
+    {
+      "id": "image-examples-004",
+      "title": "Soul Cinema / salt flat",
+      "source": "Image and Prompt Library.pdf",
+      "pages": [
+        5
+      ],
+      "label": "PROMPT",
+      "category": "image-examples",
+      "stages": [
+        3
+      ],
+      "file": "image-examples.md",
+      "sha256": "450b16f592cd52f4e041bc91e2c06368b14164ad573520b896fde1e6e122b4d3"
+    },
+    {
+      "id": "image-examples-005",
+      "title": "Soul Cinema / garden",
+      "source": "Image and Prompt Library.pdf",
+      "pages": [
+        6
+      ],
+      "label": "PROMPT",
+      "category": "image-examples",
+      "stages": [
+        3
+      ],
+      "file": "image-examples.md",
+      "sha256": "88bfbe96576f528d8027e17596f79fddfb790e2f968b9d7ca1e877e47ba38431"
+    },
+    {
+      "id": "image-examples-006",
+      "title": "Soul Cinema / selected bar",
+      "source": "Image and Prompt Library.pdf",
+      "pages": [
+        7
+      ],
+      "label": "PROMPT",
+      "category": "image-examples",
+      "stages": [
+        3
+      ],
+      "file": "image-examples.md",
+      "sha256": "0c7229a305911cb1eb2efb0841302edc9998c1823964784f51dcae61409e7252"
+    },
+    {
+      "id": "image-examples-007",
+      "title": "Seedream 5.0 Pro / cylinder city",
+      "source": "Image and Prompt Library.pdf",
+      "pages": [
+        8
+      ],
+      "label": "PROMPT",
+      "category": "image-examples",
+      "stages": [
+        3
+      ],
+      "file": "image-examples.md",
+      "sha256": "8eda0aa77bbd9126ea7683fb5a53affb673dcbd32fdb62d628681604b2c3f3c7"
+    },
+    {
+      "id": "image-examples-008",
+      "title": "Seedream 5.0 Pro / residential street",
+      "source": "Image and Prompt Library.pdf",
+      "pages": [
+        9
+      ],
+      "label": "PROMPT",
+      "category": "image-examples",
+      "stages": [
+        3
+      ],
+      "file": "image-examples.md",
+      "sha256": "0b8bf1680650db37291364137c1b05cdf8dc38bb4492caa9f21f390c604cc61c"
+    },
+    {
+      "id": "image-examples-009",
+      "title": "Seedream 5.0 Pro / dense city",
+      "source": "Image and Prompt Library.pdf",
+      "pages": [
+        10
+      ],
+      "label": "PROMPT",
+      "category": "image-examples",
+      "stages": [
+        3
+      ],
+      "file": "image-examples.md",
+      "sha256": "2ff964a254b9f20f825b5710e232addb00ae165c011ba0ffadeeda088c3edb01"
+    },
+    {
+      "id": "image-examples-010",
+      "title": "Seedream 5.0 Pro / fern laboratory",
+      "source": "Image and Prompt Library.pdf",
+      "pages": [
+        11
+      ],
+      "label": "PROMPT",
+      "category": "image-examples",
+      "stages": [
+        3
+      ],
+      "file": "image-examples.md",
+      "sha256": "8eb8af801bacde4f3e8949b2be192ab12062bbffb56b58d1166b618c77f99390"
+    },
+    {
+      "id": "image-examples-011",
+      "title": "Seedream 5.0 Pro / salt flat",
+      "source": "Image and Prompt Library.pdf",
+      "pages": [
+        12
+      ],
+      "label": "PROMPT",
+      "category": "image-examples",
+      "stages": [
+        3
+      ],
+      "file": "image-examples.md",
+      "sha256": "450b16f592cd52f4e041bc91e2c06368b14164ad573520b896fde1e6e122b4d3"
+    },
+    {
+      "id": "image-examples-012",
+      "title": "GPT 2.5 Sunburst / illustrated book",
+      "source": "Image and Prompt Library.pdf",
+      "pages": [
+        13
+      ],
+      "label": "PROMPT",
+      "category": "image-examples",
+      "stages": [
+        3
+      ],
+      "file": "image-examples.md",
+      "sha256": "22a04a7ae294fa306b62bd963e59a5ddf9486a35a143c52512cd596e34120db1"
+    },
+    {
+      "id": "image-examples-013",
+      "title": "GPT 2.5 Sunburst / licence plate",
+      "source": "Image and Prompt Library.pdf",
+      "pages": [
+        14
+      ],
+      "label": "PROMPT",
+      "category": "image-examples",
+      "stages": [
+        3
+      ],
+      "file": "image-examples.md",
+      "sha256": "4bd92412a9b3bac55e3ba9b5bb90412484ae2330278160eb27192fb1631553bb"
+    },
+    {
+      "id": "image-examples-014",
+      "title": "GPT 2.5 Sunburst / road at dusk",
+      "source": "Image and Prompt Library.pdf",
+      "pages": [
+        15
+      ],
+      "label": "PROMPT",
+      "category": "image-examples",
+      "stages": [
+        3
+      ],
+      "file": "image-examples.md",
+      "sha256": "5e9275f35e98c05da5ce849ed2e633c7b17b5d005c79ae95caae6f254cd53361"
+    },
+    {
+      "id": "image-examples-015",
+      "title": "GPT 2.5 Sunburst / lantern street",
+      "source": "Image and Prompt Library.pdf",
+      "pages": [
+        16
+      ],
+      "label": "PROMPT",
+      "category": "image-examples",
+      "stages": [
+        3
+      ],
+      "file": "image-examples.md",
+      "sha256": "eb733497eeed9329a9e8eb13d1c3040d7e14dffceb0b40a80b8339b3602b0b3e"
+    },
+    {
+      "id": "image-examples-016",
+      "title": "GPT 2.5 Sunburst / garden",
+      "source": "Image and Prompt Library.pdf",
+      "pages": [
+        17
+      ],
+      "label": "PROMPT",
+      "category": "image-examples",
+      "stages": [
+        3
+      ],
+      "file": "image-examples.md",
+      "sha256": "88bfbe96576f528d8027e17596f79fddfb790e2f968b9d7ca1e877e47ba38431"
+    },
+    {
+      "id": "image-examples-017",
+      "title": "GPT 2.5 Sunburst / Living room / source image",
+      "source": "Image and Prompt Library.pdf",
+      "pages": [
+        18
+      ],
+      "label": "PROMPT / FULL TEXT",
+      "category": "image-examples",
+      "stages": [
+        3
+      ],
+      "file": "image-examples.md",
+      "sha256": "822464afe41cb0e82c783e586d49349adb2f09431f18b384e93c09631b224049"
+    },
+    {
+      "id": "image-examples-018",
+      "title": "GPT 2.5 Sunburst / Library / source image",
+      "source": "Image and Prompt Library.pdf",
+      "pages": [
+        19
+      ],
+      "label": "PROMPT / FULL TEXT",
+      "category": "image-examples",
+      "stages": [
+        3
+      ],
+      "file": "image-examples.md",
+      "sha256": "bed98bbd31b97593fad7f831f812568790431eaaba7f4e91a730deebbe2e011e"
+    },
+    {
+      "id": "image-examples-019",
+      "title": "GPT 2.5 Sunburst / A small light / working 2D storyboard",
+      "source": "Image and Prompt Library.pdf",
+      "pages": [
+        20
+      ],
+      "label": "PROMPT",
+      "category": "image-examples",
+      "stages": [
+        3
+      ],
+      "file": "image-examples.md",
+      "sha256": "29b29740704da97beee2aff460d2890976ded72a89ef1104c42dc3da1b3cc609"
+    },
+    {
+      "id": "image-examples-020",
+      "title": "GPT 2.5 Sunburst / FORM / complex editorial typography",
+      "source": "Image and Prompt Library.pdf",
+      "pages": [
+        21
+      ],
+      "label": "PROMPT",
+      "category": "image-examples",
+      "stages": [
+        3
+      ],
+      "file": "image-examples.md",
+      "sha256": "43ee4b7555701bc3a91b86ab91e0dcb7bb854d3423ef76aec06aee5e453b0a12"
+    },
+    {
+      "id": "image-examples-021",
+      "title": "GPT 2.5 Sunburst / Thermal Lab / technical information design",
+      "source": "Image and Prompt Library.pdf",
+      "pages": [
+        22
+      ],
+      "label": "PROMPT",
+      "category": "image-examples",
+      "stages": [
+        3
+      ],
+      "file": "image-examples.md",
+      "sha256": "acee4b3fc53abd5b0ea6a39917e8d717374ca2fc3e4ace78a88e568c52729599"
+    },
+    {
+      "id": "image-examples-022",
+      "title": "GPT 2.5 Sunburst / Market Square / dense illustrated lettering",
+      "source": "Image and Prompt Library.pdf",
+      "pages": [
+        23
+      ],
+      "label": "PROMPT",
+      "category": "image-examples",
+      "stages": [
+        3
+      ],
+      "file": "image-examples.md",
+      "sha256": "fde271c97664a3312b6f723d4a2fa14079c43d542d311572feebea0ea4235d6e"
+    },
+    {
+      "id": "image-examples-023",
+      "title": "GPT 2.5 Sunburst / Field recorder / hip-hop customisation",
+      "source": "Image and Prompt Library.pdf",
+      "pages": [
+        24
+      ],
+      "label": "RECREATION PROMPT / FINAL LOOK",
+      "category": "image-examples",
+      "stages": [
+        3
+      ],
+      "file": "image-examples.md",
+      "sha256": "6ec91b51754c91031feb0b07b44e48a134a55abbff38cf25e25a6e4a51ecb932"
+    },
+    {
+      "id": "image-examples-024",
+      "title": "GPT 2.5 Sunburst / A small light / grey mesh animatic",
+      "source": "Image and Prompt Library.pdf",
+      "pages": [
+        25
+      ],
+      "label": "PROMPT",
+      "category": "image-examples",
+      "stages": [
+        3
+      ],
+      "file": "image-examples.md",
+      "sha256": "4f32de50822fe42b2fa705436409355797159a6a4267bd820e9aa5c48505b702"
+    },
+    {
+      "id": "image-examples-025",
+      "title": "Nano Banana Pro / farmhouse",
+      "source": "Image and Prompt Library.pdf",
+      "pages": [
+        26
+      ],
+      "label": "PROMPT",
+      "category": "image-examples",
+      "stages": [
+        3
+      ],
+      "file": "image-examples.md",
+      "sha256": "bb02b6df866276cd8d7551228b7ec6a2d20983efd7b963d5e04aed000b4af50b"
+    },
+    {
+      "id": "image-examples-026",
+      "title": "Nano Banana Pro / lantern street",
+      "source": "Image and Prompt Library.pdf",
+      "pages": [
+        27
+      ],
+      "label": "PROMPT",
+      "category": "image-examples",
+      "stages": [
+        3
+      ],
+      "file": "image-examples.md",
+      "sha256": "041961e26f619ba383b08ccccfdc221ef6e65ba6c35b0cb716b7befacbec2460"
+    },
+    {
+      "id": "camera-clauses-001",
+      "title": "Camera — Shot Sizes, Angles and Movement / p.3",
+      "source": "Camera — Shot Sizes, Angles and Movement.pdf",
+      "pages": [
+        3
+      ],
+      "label": "PROMPT",
+      "category": "camera-clauses",
+      "stages": [
+        2,
+        4
+      ],
+      "file": "camera-clauses.md",
+      "sha256": "cbddf8ff7c4ccbfb4fe208f3dc53e244745920c120bd6d5737eae6f1a8ae9105"
+    },
+    {
+      "id": "camera-clauses-002",
+      "title": "Camera — Shot Sizes, Angles and Movement / p.3",
+      "source": "Camera — Shot Sizes, Angles and Movement.pdf",
+      "pages": [
+        3
+      ],
+      "label": "PROMPT",
+      "category": "camera-clauses",
+      "stages": [
+        2,
+        4
+      ],
+      "file": "camera-clauses.md",
+      "sha256": "91abd147ca63373ab7b8b3b92f81366f8688fc5402be5aedb24b92e2f6337de3"
+    },
+    {
+      "id": "camera-clauses-003",
+      "title": "Camera — Shot Sizes, Angles and Movement / p.4",
+      "source": "Camera — Shot Sizes, Angles and Movement.pdf",
+      "pages": [
+        4
+      ],
+      "label": "PROMPT",
+      "category": "camera-clauses",
+      "stages": [
+        2,
+        4
+      ],
+      "file": "camera-clauses.md",
+      "sha256": "f8d63d5796b326e4f9fb9f4d725405e224f16c7c755c5dc6ba21b991e863c24c"
+    },
+    {
+      "id": "camera-clauses-004",
+      "title": "Camera — Shot Sizes, Angles and Movement / p.4",
+      "source": "Camera — Shot Sizes, Angles and Movement.pdf",
+      "pages": [
+        4
+      ],
+      "label": "PROMPT",
+      "category": "camera-clauses",
+      "stages": [
+        2,
+        4
+      ],
+      "file": "camera-clauses.md",
+      "sha256": "baab03115be11aaddffb95d0ac2decd36f0a1d92611c185d6ee77c000446a0d2"
+    },
+    {
+      "id": "camera-clauses-005",
+      "title": "Camera — Shot Sizes, Angles and Movement / p.5",
+      "source": "Camera — Shot Sizes, Angles and Movement.pdf",
+      "pages": [
+        5
+      ],
+      "label": "PROMPT",
+      "category": "camera-clauses",
+      "stages": [
+        2,
+        4
+      ],
+      "file": "camera-clauses.md",
+      "sha256": "677da8b733019d2737395df9319aade7437559d70f4c60000b78d52faad71082"
+    },
+    {
+      "id": "camera-clauses-006",
+      "title": "Camera — Shot Sizes, Angles and Movement / p.5",
+      "source": "Camera — Shot Sizes, Angles and Movement.pdf",
+      "pages": [
+        5
+      ],
+      "label": "PROMPT",
+      "category": "camera-clauses",
+      "stages": [
+        2,
+        4
+      ],
+      "file": "camera-clauses.md",
+      "sha256": "3d34012a01988c89fa1d717ecdc7a972a91c3aff808fd309b4f957270a5d9389"
+    },
+    {
+      "id": "camera-clauses-007",
+      "title": "Camera — Shot Sizes, Angles and Movement / p.6",
+      "source": "Camera — Shot Sizes, Angles and Movement.pdf",
+      "pages": [
+        6
+      ],
+      "label": "PROMPT",
+      "category": "camera-clauses",
+      "stages": [
+        2,
+        4
+      ],
+      "file": "camera-clauses.md",
+      "sha256": "472cbe5a4eab444062375125a081f3a79496ed6102e4b84a349692aa78666b8a"
+    },
+    {
+      "id": "camera-clauses-008",
+      "title": "Camera — Shot Sizes, Angles and Movement / p.6",
+      "source": "Camera — Shot Sizes, Angles and Movement.pdf",
+      "pages": [
+        6
+      ],
+      "label": "PROMPT",
+      "category": "camera-clauses",
+      "stages": [
+        2,
+        4
+      ],
+      "file": "camera-clauses.md",
+      "sha256": "13fa8e38f05807afc5d0706a53a2a9f0b4525f09e88e760abd52adac042ee406"
+    },
+    {
+      "id": "camera-clauses-009",
+      "title": "Camera — Shot Sizes, Angles and Movement / p.7",
+      "source": "Camera — Shot Sizes, Angles and Movement.pdf",
+      "pages": [
+        7
+      ],
+      "label": "PROMPT",
+      "category": "camera-clauses",
+      "stages": [
+        2,
+        4
+      ],
+      "file": "camera-clauses.md",
+      "sha256": "ba36a473dc5059692d5501c79e9af0244cb3121be05f6b0b7edc532c175fdcd2"
+    },
+    {
+      "id": "camera-clauses-010",
+      "title": "Camera — Shot Sizes, Angles and Movement / p.8",
+      "source": "Camera — Shot Sizes, Angles and Movement.pdf",
+      "pages": [
+        8
+      ],
+      "label": "PROMPT",
+      "category": "camera-clauses",
+      "stages": [
+        2,
+        4
+      ],
+      "file": "camera-clauses.md",
+      "sha256": "fcca8fb0ecfd7742fe2b6814b8b85c16c44ac15290d118eb17800acb16585d01"
+    },
+    {
+      "id": "camera-clauses-011",
+      "title": "Camera — Shot Sizes, Angles and Movement / p.8",
+      "source": "Camera — Shot Sizes, Angles and Movement.pdf",
+      "pages": [
+        8
+      ],
+      "label": "PROMPT",
+      "category": "camera-clauses",
+      "stages": [
+        2,
+        4
+      ],
+      "file": "camera-clauses.md",
+      "sha256": "41c1e7197a05f843aab8d4958ca0ca8f8521d2086cd8c43c8032036ffe9a66b5"
+    },
+    {
+      "id": "camera-clauses-012",
+      "title": "Camera — Shot Sizes, Angles and Movement / p.8",
+      "source": "Camera — Shot Sizes, Angles and Movement.pdf",
+      "pages": [
+        8
+      ],
+      "label": "PROMPT",
+      "category": "camera-clauses",
+      "stages": [
+        2,
+        4
+      ],
+      "file": "camera-clauses.md",
+      "sha256": "a7139e2e3e0ea08c496013126528bc237398f10de02fbeeded7ea4341177f09d"
+    },
+    {
+      "id": "camera-clauses-013",
+      "title": "Camera — Shot Sizes, Angles and Movement / p.9",
+      "source": "Camera — Shot Sizes, Angles and Movement.pdf",
+      "pages": [
+        9
+      ],
+      "label": "PROMPT",
+      "category": "camera-clauses",
+      "stages": [
+        2,
+        4
+      ],
+      "file": "camera-clauses.md",
+      "sha256": "9fda62c1a7abe92fe95056882c0a14e3252591a0f5a8dc2c773363276c88f49e"
+    },
+    {
+      "id": "camera-clauses-014",
+      "title": "Camera — Shot Sizes, Angles and Movement / p.9",
+      "source": "Camera — Shot Sizes, Angles and Movement.pdf",
+      "pages": [
+        9
+      ],
+      "label": "PROMPT",
+      "category": "camera-clauses",
+      "stages": [
+        2,
+        4
+      ],
+      "file": "camera-clauses.md",
+      "sha256": "75be99ccb13ed23f00dc1773c57608f71ad681698c8da18ef5b7c37a290ef8c0"
+    },
+    {
+      "id": "camera-clauses-015",
+      "title": "Camera — Shot Sizes, Angles and Movement / p.10",
+      "source": "Camera — Shot Sizes, Angles and Movement.pdf",
+      "pages": [
+        10
+      ],
+      "label": "PROMPT",
+      "category": "camera-clauses",
+      "stages": [
+        2,
+        4
+      ],
+      "file": "camera-clauses.md",
+      "sha256": "9c9ec5a6890fb908c97f446b027d21616637bc26dfe27db8e22bc32d423a084c"
+    },
+    {
+      "id": "camera-clauses-016",
+      "title": "Camera — Shot Sizes, Angles and Movement / p.11",
+      "source": "Camera — Shot Sizes, Angles and Movement.pdf",
+      "pages": [
+        11
+      ],
+      "label": "PROMPT",
+      "category": "camera-clauses",
+      "stages": [
+        2,
+        4
+      ],
+      "file": "camera-clauses.md",
+      "sha256": "ac488460d742b4bb66c8d2458fd7303e75ec69553171085f4742110751a8e7f3"
+    },
+    {
+      "id": "camera-clauses-017",
+      "title": "Camera — Shot Sizes, Angles and Movement / p.12",
+      "source": "Camera — Shot Sizes, Angles and Movement.pdf",
+      "pages": [
+        12
+      ],
+      "label": "PROMPT",
+      "category": "camera-clauses",
+      "stages": [
+        2,
+        4
+      ],
+      "file": "camera-clauses.md",
+      "sha256": "eff81d2b413ec16a06882d810ed1f93a1f287801beb18dfaa17a4ee359530ff3"
+    },
+    {
+      "id": "camera-clauses-018",
+      "title": "Camera — Shot Sizes, Angles and Movement / p.13",
+      "source": "Camera — Shot Sizes, Angles and Movement.pdf",
+      "pages": [
+        13
+      ],
+      "label": "PROMPT",
+      "category": "camera-clauses",
+      "stages": [
+        2,
+        4
+      ],
+      "file": "camera-clauses.md",
+      "sha256": "a2b1983806336957d7f7542491e5227d1528671ec7ef3875ef852703642f80f1"
+    },
+    {
+      "id": "camera-clauses-019",
+      "title": "Camera — Shot Sizes, Angles and Movement / p.14",
+      "source": "Camera — Shot Sizes, Angles and Movement.pdf",
+      "pages": [
+        14
+      ],
+      "label": "PROMPT",
+      "category": "camera-clauses",
+      "stages": [
+        2,
+        4
+      ],
+      "file": "camera-clauses.md",
+      "sha256": "cd393a95160eb83a7f473e05c321543dbd2bb86eb47a3055534487330b5336e2"
+    },
+    {
+      "id": "camera-clauses-020",
+      "title": "Camera — Shot Sizes, Angles and Movement / p.15",
+      "source": "Camera — Shot Sizes, Angles and Movement.pdf",
+      "pages": [
+        15
+      ],
+      "label": "PROMPT",
+      "category": "camera-clauses",
+      "stages": [
+        2,
+        4
+      ],
+      "file": "camera-clauses.md",
+      "sha256": "634338e739f75db8ef435b5bb2c0285fd3891f9bf89a127184c385155b736435"
+    },
+    {
+      "id": "camera-clauses-021",
+      "title": "Camera — Shot Sizes, Angles and Movement / p.16",
+      "source": "Camera — Shot Sizes, Angles and Movement.pdf",
+      "pages": [
+        16
+      ],
+      "label": "PROMPT",
+      "category": "camera-clauses",
+      "stages": [
+        2,
+        4
+      ],
+      "file": "camera-clauses.md",
+      "sha256": "31a03437795afbcae3bdc6012388af541a89c8eafd8057c168d3d2de0c4ee21d"
+    },
+    {
+      "id": "camera-clauses-022",
+      "title": "Camera — Shot Sizes, Angles and Movement / p.17",
+      "source": "Camera — Shot Sizes, Angles and Movement.pdf",
+      "pages": [
+        17
+      ],
+      "label": "PROMPT",
+      "category": "camera-clauses",
+      "stages": [
+        2,
+        4
+      ],
+      "file": "camera-clauses.md",
+      "sha256": "c8998156a0feec37e94a2e6d3efdb40660690e92579dad3e6528b138354853aa"
+    },
+    {
+      "id": "camera-clauses-023",
+      "title": "Camera — Shot Sizes, Angles and Movement / p.18",
+      "source": "Camera — Shot Sizes, Angles and Movement.pdf",
+      "pages": [
+        18
+      ],
+      "label": "PROMPT",
+      "category": "camera-clauses",
+      "stages": [
+        2,
+        4
+      ],
+      "file": "camera-clauses.md",
+      "sha256": "d27bb34c94cb8fe91168fefea16a7800d9dd76cb6e63d05dadc24c5d4c242361"
+    },
+    {
+      "id": "camera-clauses-024",
+      "title": "Camera — Shot Sizes, Angles and Movement / p.18",
+      "source": "Camera — Shot Sizes, Angles and Movement.pdf",
+      "pages": [
+        18
+      ],
+      "label": "PROMPT",
+      "category": "camera-clauses",
+      "stages": [
+        2,
+        4
+      ],
+      "file": "camera-clauses.md",
+      "sha256": "84460e7f051818e5ef2fe1e5d8f9d8c2c189a90af1c195e2c391e3cd3cd0f21d"
+    },
+    {
+      "id": "camera-clauses-025",
+      "title": "Camera — Shot Sizes, Angles and Movement / p.18",
+      "source": "Camera — Shot Sizes, Angles and Movement.pdf",
+      "pages": [
+        18
+      ],
+      "label": "PROMPT",
+      "category": "camera-clauses",
+      "stages": [
+        2,
+        4
+      ],
+      "file": "camera-clauses.md",
+      "sha256": "f708decdcca701659744658536cd37c4dd0558600f1b476f76bd6008273b7292"
+    },
+    {
+      "id": "camera-clauses-026",
+      "title": "Camera — Shot Sizes, Angles and Movement / p.18",
+      "source": "Camera — Shot Sizes, Angles and Movement.pdf",
+      "pages": [
+        18
+      ],
+      "label": "PROMPT",
+      "category": "camera-clauses",
+      "stages": [
+        2,
+        4
+      ],
+      "file": "camera-clauses.md",
+      "sha256": "3e33ab31574acb4d85aa3fb640f0bb2be0bac8d7954cebc701d541430ad42aae"
+    },
+    {
+      "id": "camera-clauses-027",
+      "title": "Camera — Shot Sizes, Angles and Movement / p.19",
+      "source": "Camera — Shot Sizes, Angles and Movement.pdf",
+      "pages": [
+        19
+      ],
+      "label": "PROMPT",
+      "category": "camera-clauses",
+      "stages": [
+        2,
+        4
+      ],
+      "file": "camera-clauses.md",
+      "sha256": "761e1383ac5fb7bcc0977c1350591f79123138baca72f07b4ccdc27249230871"
+    },
+    {
+      "id": "camera-clauses-028",
+      "title": "Camera — Shot Sizes, Angles and Movement / p.19",
+      "source": "Camera — Shot Sizes, Angles and Movement.pdf",
+      "pages": [
+        19
+      ],
+      "label": "PROMPT",
+      "category": "camera-clauses",
+      "stages": [
+        2,
+        4
+      ],
+      "file": "camera-clauses.md",
+      "sha256": "d9502f6239d271b861720b9213903ed4e17dd38e08e1a715faff5cd6a83b5bfd"
+    },
+    {
+      "id": "asset-prompts-001",
+      "title": "Create and Edit Assets — Visual Companion / p.16",
+      "source": "Create and Edit Assets — Visual Companion.pdf",
+      "pages": [
+        16
+      ],
+      "label": "PROMPT",
+      "category": "asset-prompts",
+      "stages": [
+        3
+      ],
+      "file": "asset-prompts.md",
+      "sha256": "d9895f41cbc1e8c66af9250a2430bcc6aebdbe92ad1791e961145a5aaa86f62c"
+    },
+    {
+      "id": "asset-prompts-002",
+      "title": "Create and Edit Assets — Visual Companion / p.17",
+      "source": "Create and Edit Assets — Visual Companion.pdf",
+      "pages": [
+        17
+      ],
+      "label": "PROMPT",
+      "category": "asset-prompts",
+      "stages": [
+        3
+      ],
+      "file": "asset-prompts.md",
+      "sha256": "2a6c1b33fc8b6268229b6c91e9b16fe5820acb9d441da5a0497a79e01cb7a6ff"
+    },
+    {
+      "id": "asset-prompts-003",
+      "title": "Create and Edit Assets — Visual Companion / p.18",
+      "source": "Create and Edit Assets — Visual Companion.pdf",
+      "pages": [
+        18
+      ],
+      "label": "PROMPT",
+      "category": "asset-prompts",
+      "stages": [
+        3
+      ],
+      "file": "asset-prompts.md",
+      "sha256": "98c47e82f455ab0f82415c831aa4574fca4837158898d92f2bc860b82d6937e1"
+    },
+    {
+      "id": "asset-prompts-004",
+      "title": "Create and Edit Assets — Visual Companion / p.19",
+      "source": "Create and Edit Assets — Visual Companion.pdf",
+      "pages": [
+        19
+      ],
+      "label": "PROMPT",
+      "category": "asset-prompts",
+      "stages": [
+        3
+      ],
+      "file": "asset-prompts.md",
+      "sha256": "40eadfa7b5569f81d4dfbbbf1e41f369f8c1911865e03b4e2d9f4bac9b45dde3"
+    },
+    {
+      "id": "asset-prompts-005",
+      "title": "Create and Edit Assets — Visual Companion / p.20",
+      "source": "Create and Edit Assets — Visual Companion.pdf",
+      "pages": [
+        20
+      ],
+      "label": "PROMPT",
+      "category": "asset-prompts",
+      "stages": [
+        3
+      ],
+      "file": "asset-prompts.md",
+      "sha256": "ee0b049da3ae4c9f0d2d3d11e13f808e24566570c27b499331abd02b20032d81"
+    },
+    {
+      "id": "asset-prompts-006",
+      "title": "Create and Edit Assets — Visual Companion / p.20",
+      "source": "Create and Edit Assets — Visual Companion.pdf",
+      "pages": [
+        20
+      ],
+      "label": "PROMPT",
+      "category": "asset-prompts",
+      "stages": [
+        3
+      ],
+      "file": "asset-prompts.md",
+      "sha256": "8a0afbda73726c55732086511ac29d4c78056d06e00e4d0dbeab4ba1df412f77"
+    },
+    {
+      "id": "asset-prompts-007",
+      "title": "Create and Edit Assets — Visual Companion / p.22",
+      "source": "Create and Edit Assets — Visual Companion.pdf",
+      "pages": [
+        22
+      ],
+      "label": "PROMPT",
+      "category": "asset-prompts",
+      "stages": [
+        3
+      ],
+      "file": "asset-prompts.md",
+      "sha256": "526b2d3cc661ef25a253f3dfec2f86c523e2491660730416d9778b42a569a850"
+    },
+    {
+      "id": "asset-prompts-008",
+      "title": "Create and Edit Assets — Visual Companion / p.23",
+      "source": "Create and Edit Assets — Visual Companion.pdf",
+      "pages": [
+        23
+      ],
+      "label": "PROMPT",
+      "category": "asset-prompts",
+      "stages": [
+        3
+      ],
+      "file": "asset-prompts.md",
+      "sha256": "21df0b38528d00c14e4e984c298c38b2aa3f503e768a7ce9d498c52009dba297"
+    },
+    {
+      "id": "asset-prompts-009",
+      "title": "Create and Edit Assets — Visual Companion / p.24",
+      "source": "Create and Edit Assets — Visual Companion.pdf",
+      "pages": [
+        24
+      ],
+      "label": "PROMPT",
+      "category": "asset-prompts",
+      "stages": [
+        3
+      ],
+      "file": "asset-prompts.md",
+      "sha256": "72299fb8b68ccb9cd26c94fa9d8fc8e6fe6dfe525583d15e12fcd2772b1e2fe6"
+    },
+    {
+      "id": "directing-prompts-001",
+      "title": "Direct Your Own Scene / p.4",
+      "source": "Direct Your Own Scene.pdf",
+      "pages": [
+        4
+      ],
+      "label": "BORROW THE OPENING, CHANGE THE CONTINUATION",
+      "category": "directing-prompts",
+      "stages": [
+        1,
+        4,
+        6
+      ],
+      "file": "directing-prompts.md",
+      "sha256": "47a503bf0b4c70ffcb64551bbc447bd7c79b0776bd41b6a294702720f3813055"
+    },
+    {
+      "id": "directing-prompts-002",
+      "title": "Direct Your Own Scene / p.7",
+      "source": "Direct Your Own Scene.pdf",
+      "pages": [
+        7
+      ],
+      "label": "EXPLORE THE STAGING",
+      "category": "directing-prompts",
+      "stages": [
+        1,
+        4,
+        6
+      ],
+      "file": "directing-prompts.md",
+      "sha256": "8ebf8caf269d2bcea4dc9abfe07323c4846c6e94302c6c16c58ae4afc9c3e323"
+    },
+    {
+      "id": "directing-prompts-003",
+      "title": "Direct Your Own Scene / p.7",
+      "source": "Direct Your Own Scene.pdf",
+      "pages": [
+        7
+      ],
+      "label": "EXPLORE CAMERA OPTIONS",
+      "category": "directing-prompts",
+      "stages": [
+        1,
+        4,
+        6
+      ],
+      "file": "directing-prompts.md",
+      "sha256": "77b6b5bcc9db60afbee5203e2d0bde3be0217b9bbd64d4ab2daa8101e69cd5bc"
+    },
+    {
+      "id": "directing-prompts-004",
+      "title": "Direct Your Own Scene / p.8",
+      "source": "Direct Your Own Scene.pdf",
+      "pages": [
+        8
+      ],
+      "label": "KEEP YOUR SCENE INTENT",
+      "category": "directing-prompts",
+      "stages": [
+        1,
+        4,
+        6
+      ],
+      "file": "directing-prompts.md",
+      "sha256": "4fcaabf66701b52dff3fe74898bddbaf9254477b84fe2238592832e356c9b35f"
+    },
+    {
+      "id": "directing-prompts-005",
+      "title": "Direct Your Own Scene / p.9",
+      "source": "Direct Your Own Scene.pdf",
+      "pages": [
+        9
+      ],
+      "label": "REQUEST TO THE WRITING ASSISTANT",
+      "category": "directing-prompts",
+      "stages": [
+        1,
+        4,
+        6
+      ],
+      "file": "directing-prompts.md",
+      "sha256": "26d5e368b24509da51a223e1a96aef94c089fdc43aedc27316aea28821544a23"
+    },
+    {
+      "id": "directing-prompts-006",
+      "title": "Direct Your Own Scene / p.9",
+      "source": "Direct Your Own Scene.pdf",
+      "pages": [
+        9
+      ],
+      "label": "REFINE WITH THE RESULT",
+      "category": "directing-prompts",
+      "stages": [
+        1,
+        4,
+        6
+      ],
+      "file": "directing-prompts.md",
+      "sha256": "6fead10c4b14a5d8473a208e09c056c7af3be74272e563960c0eaf8e6f9fdfdc"
+    },
+    {
+      "id": "directing-prompts-007",
+      "title": "Direct Your Own Scene / p.11",
+      "source": "Direct Your Own Scene.pdf",
+      "pages": [
+        11
+      ],
+      "label": "ASK THE ASSISTANT TO CHECK THE PROMPT",
+      "category": "directing-prompts",
+      "stages": [
+        1,
+        4,
+        6
+      ],
+      "file": "directing-prompts.md",
+      "sha256": "21279f7380c0020f8f7f4319e76bac3b2cdfebbbc185fe6ba038071cfe173436"
+    },
+    {
+      "id": "directing-prompts-008",
+      "title": "Shot Sizes and Prompting / p.6",
+      "source": "Shot Sizes and Prompting.pdf",
+      "pages": [
+        6
+      ],
+      "label": "PROMPT REPAIR REQUEST",
+      "category": "directing-prompts",
+      "stages": [
+        1,
+        4,
+        6
+      ],
+      "file": "directing-prompts.md",
+      "sha256": "1536ba472b32f3bdbbc352ce726f463c07496cddaf8cf85ba085bd069b6661a5"
+    },
+    {
+      "id": "directing-prompts-009",
+      "title": "Shot Sizes and Prompting / p.7",
+      "source": "Shot Sizes and Prompting.pdf",
+      "pages": [
+        7
+      ],
+      "label": "COPY & ADAPT",
+      "category": "directing-prompts",
+      "stages": [
+        1,
+        4,
+        6
+      ],
+      "file": "directing-prompts.md",
+      "sha256": "800875ca2748b89e0443b62fdb472769dded5194e1d4df85751dce749c7f2fd2"
+    },
+    {
+      "id": "video-examples-001",
+      "title": "Your First Video — Visual Companion / p.5",
+      "source": "Your First Video — Visual Companion.pdf",
+      "pages": [
+        5
+      ],
+      "label": "Prompt",
+      "category": "video-examples",
+      "stages": [
+        4
+      ],
+      "file": "video-examples.md",
+      "sha256": "65e98a6bc846e51b075fd1b57b1096aae40368344211dc47d51cb3a1c5f5b88c"
+    },
+    {
+      "id": "video-examples-002",
+      "title": "Your First Video — Visual Companion / p.5",
+      "source": "Your First Video — Visual Companion.pdf",
+      "pages": [
+        5
+      ],
+      "label": "Prompt",
+      "category": "video-examples",
+      "stages": [
+        4
+      ],
+      "file": "video-examples.md",
+      "sha256": "75dad395b7927a1b6a426876dd20d6af3cb3461bc3401662e79b3b8fc83d1220"
+    },
+    {
+      "id": "video-examples-003",
+      "title": "Your First Video — Visual Companion / p.8",
+      "source": "Your First Video — Visual Companion.pdf",
+      "pages": [
+        8
+      ],
+      "label": "PROMPT / SETUP",
+      "category": "video-examples",
+      "stages": [
+        4
+      ],
+      "file": "video-examples.md",
+      "sha256": "8b0a683d13bdeee925e1e63a18d44f57eb3a224eee1902c9f321a22564b048b4"
+    },
+    {
+      "id": "video-examples-004",
+      "title": "Your First Video — Visual Companion / p.9",
+      "source": "Your First Video — Visual Companion.pdf",
+      "pages": [
+        9
+      ],
+      "label": "PROMPT / SHOT 01",
+      "category": "video-examples",
+      "stages": [
+        4
+      ],
+      "file": "video-examples.md",
+      "sha256": "2c9447d96383e2a8474d67fb819ba4ca935bf38a10d83172bc03ec3bc1f8b030"
+    },
+    {
+      "id": "video-examples-005",
+      "title": "Your First Video — Visual Companion / p.10",
+      "source": "Your First Video — Visual Companion.pdf",
+      "pages": [
+        10
+      ],
+      "label": "PROMPT / SHOT 02",
+      "category": "video-examples",
+      "stages": [
+        4
+      ],
+      "file": "video-examples.md",
+      "sha256": "1f34a5de2f69fe1262ccdbbc789bcfcb4b43dd74a4cd6556d9893ef1dae9f751"
+    },
+    {
+      "id": "video-examples-006",
+      "title": "Your First Video — Visual Companion / p.11",
+      "source": "Your First Video — Visual Companion.pdf",
+      "pages": [
+        11
+      ],
+      "label": "PROMPT / SHOT 03",
+      "category": "video-examples",
+      "stages": [
+        4
+      ],
+      "file": "video-examples.md",
+      "sha256": "284a78553efca5168842b83ec487e19ce813f816ddb05bdb560566604b815c6d"
+    },
+    {
+      "id": "video-examples-007",
+      "title": "Your First Video — Visual Companion / p.12",
+      "source": "Your First Video — Visual Companion.pdf",
+      "pages": [
+        12
+      ],
+      "label": "PROMPT / SHOT 04",
+      "category": "video-examples",
+      "stages": [
+        4
+      ],
+      "file": "video-examples.md",
+      "sha256": "d9a1fdf2014d0f1747fdbb8bdb4ec6eb1037354b97e2515a2b7628800d3dd859"
+    },
+    {
+      "id": "video-examples-008",
+      "title": "Your First Video — Visual Companion / p.13",
+      "source": "Your First Video — Visual Companion.pdf",
+      "pages": [
+        13
+      ],
+      "label": "PROMPT / SHOT 05",
+      "category": "video-examples",
+      "stages": [
+        4
+      ],
+      "file": "video-examples.md",
+      "sha256": "6555d216535fa7386f8362ff7c93eb964653fc51b3f5297b95b4761c9b25fe87"
+    },
+    {
+      "id": "video-examples-009",
+      "title": "Your First Video — Visual Companion / p.14",
+      "source": "Your First Video — Visual Companion.pdf",
+      "pages": [
+        14
+      ],
+      "label": "PROMPT / COLOR TREATMENT",
+      "category": "video-examples",
+      "stages": [
+        4
+      ],
+      "file": "video-examples.md",
+      "sha256": "78d3ad5722b67fe88f5108d84e633bf6a293eeea7660d9d01afdafbf3fbcb61a"
+    },
+    {
+      "id": "video-examples-010",
+      "title": "Your First Video — Visual Companion / p.14",
+      "source": "Your First Video — Visual Companion.pdf",
+      "pages": [
+        14
+      ],
+      "label": "PROMPT / CONSTRAINTS",
+      "category": "video-examples",
+      "stages": [
+        4
+      ],
+      "file": "video-examples.md",
+      "sha256": "74303ced4b0acff5710c544be20d06985494b1fe05b28d92d99809708592b6f1"
+    },
+    {
+      "id": "video-examples-011",
+      "title": "Your First Video — Visual Companion / p.15",
+      "source": "Your First Video — Visual Companion.pdf",
+      "pages": [
+        15
+      ],
+      "label": "Prompt",
+      "category": "video-examples",
+      "stages": [
+        4
+      ],
+      "file": "video-examples.md",
+      "sha256": "43ea565e1d7386d387e230fb8a73e7801632bc1a637b41d9be6342999375d271"
+    },
+    {
+      "id": "video-examples-012",
+      "title": "Your First Video — Visual Companion / p.15",
+      "source": "Your First Video — Visual Companion.pdf",
+      "pages": [
+        15
+      ],
+      "label": "Prompt",
+      "category": "video-examples",
+      "stages": [
+        4
+      ],
+      "file": "video-examples.md",
+      "sha256": "bf665cae213a51c69c8a278fff5978332d2dbdb8088c420b8acf3f12a9cb38b2"
+    },
+    {
+      "id": "video-examples-013",
+      "title": "Your First Video — Visual Companion / p.15",
+      "source": "Your First Video — Visual Companion.pdf",
+      "pages": [
+        15
+      ],
+      "label": "Prompt",
+      "category": "video-examples",
+      "stages": [
+        4
+      ],
+      "file": "video-examples.md",
+      "sha256": "ad626a60dbd43e4fa11d20a89732c28707268f21d3596de0175a99cdba19ae6a"
+    },
+    {
+      "id": "product-ugc-prompts-001",
+      "title": "Product Images and Ads — Visual Companion / p.3",
+      "source": "Product Images and Ads — Visual Companion.pdf",
+      "pages": [
+        3
+      ],
+      "label": "PROMPT",
+      "category": "product-ugc-prompts",
+      "stages": [
+        3,
+        4,
+        6
+      ],
+      "file": "product-ugc-prompts.md",
+      "sha256": "21b93e1e2a99c4d483d3671c15cdd3f04eb5bec141e5908bc630ba9b802afb77"
+    },
+    {
+      "id": "product-ugc-prompts-002",
+      "title": "Product Images and Ads — Visual Companion / p.4",
+      "source": "Product Images and Ads — Visual Companion.pdf",
+      "pages": [
+        4
+      ],
+      "label": "PROMPT",
+      "category": "product-ugc-prompts",
+      "stages": [
+        3,
+        4,
+        6
+      ],
+      "file": "product-ugc-prompts.md",
+      "sha256": "c5d72ddbb7b0d42dc47c06b034ebd120f63e10e9bb19bb0028ab604772dbbb80"
+    },
+    {
+      "id": "product-ugc-prompts-003",
+      "title": "Product Images and Ads — Visual Companion / p.5",
+      "source": "Product Images and Ads — Visual Companion.pdf",
+      "pages": [
+        5
+      ],
+      "label": "PROMPT",
+      "category": "product-ugc-prompts",
+      "stages": [
+        3,
+        4,
+        6
+      ],
+      "file": "product-ugc-prompts.md",
+      "sha256": "0a28fe191cc56f6af13159ec57a5bb374bc72afd3c7c3d0680adcfe7d4637055",
+      "transcription_note": "Superscript footnote 3 omitted; reading order checked against rendered PDF page 5."
+    },
+    {
+      "id": "product-ugc-prompts-004",
+      "title": "Product Images and Ads — Visual Companion / p.5",
+      "source": "Product Images and Ads — Visual Companion.pdf",
+      "pages": [
+        5
+      ],
+      "label": "PROMPT",
+      "category": "product-ugc-prompts",
+      "stages": [
+        3,
+        4,
+        6
+      ],
+      "file": "product-ugc-prompts.md",
+      "sha256": "ed1a6082d1a62e7860ef7a7231b3b4fc57af31b3a5f9efbc85f5a8fe756b508a"
+    },
+    {
+      "id": "product-ugc-prompts-005",
+      "title": "Product Images and Ads — Visual Companion / p.6",
+      "source": "Product Images and Ads — Visual Companion.pdf",
+      "pages": [
+        6
+      ],
+      "label": "PROMPT",
+      "category": "product-ugc-prompts",
+      "stages": [
+        3,
+        4,
+        6
+      ],
+      "file": "product-ugc-prompts.md",
+      "sha256": "0a286117d07e7e5a279f307978f916afdd40385bbfbe242c772bc4b693c4ea41"
+    },
+    {
+      "id": "product-ugc-prompts-006",
+      "title": "Product Images and Ads — Visual Companion / p.10",
+      "source": "Product Images and Ads — Visual Companion.pdf",
+      "pages": [
+        10
+      ],
+      "label": "PROMPT",
+      "category": "product-ugc-prompts",
+      "stages": [
+        3,
+        4,
+        6
+      ],
+      "file": "product-ugc-prompts.md",
+      "sha256": "b56ead6041ac46294d10c9ecb7da010b84254b3dcee421f6ac92f9486e39ea96"
+    },
+    {
+      "id": "product-ugc-prompts-007",
+      "title": "Product Images and Ads — Visual Companion / p.12",
+      "source": "Product Images and Ads — Visual Companion.pdf",
+      "pages": [
+        12
+      ],
+      "label": "PROMPT",
+      "category": "product-ugc-prompts",
+      "stages": [
+        3,
+        4,
+        6
+      ],
+      "file": "product-ugc-prompts.md",
+      "sha256": "bd9d984fa957c07f26d11b29015702b9bb9b14a3cbe2ca60a194266c70ac023c"
+    },
+    {
+      "id": "product-ugc-prompts-008",
+      "title": "Product Images and Ads — Visual Companion / p.13",
+      "source": "Product Images and Ads — Visual Companion.pdf",
+      "pages": [
+        13
+      ],
+      "label": "PROMPT",
+      "category": "product-ugc-prompts",
+      "stages": [
+        3,
+        4,
+        6
+      ],
+      "file": "product-ugc-prompts.md",
+      "sha256": "52bbeb40663e02becd1fabcfa92cfcb5fea104832fb522b341166472beaf55c6"
+    },
+    {
+      "id": "product-ugc-prompts-009",
+      "title": "Product Images and Ads — Visual Companion / p.13",
+      "source": "Product Images and Ads — Visual Companion.pdf",
+      "pages": [
+        13
+      ],
+      "label": "PROMPT",
+      "category": "product-ugc-prompts",
+      "stages": [
+        3,
+        4,
+        6
+      ],
+      "file": "product-ugc-prompts.md",
+      "sha256": "62871743be39dfc87617c8dcb245b0b1dd4932eebc4f96ea8388710a35d5e3d5"
+    },
+    {
+      "id": "product-ugc-prompts-010",
+      "title": "Product Images and Ads — Visual Companion / p.14",
+      "source": "Product Images and Ads — Visual Companion.pdf",
+      "pages": [
+        14
+      ],
+      "label": "PROMPT",
+      "category": "product-ugc-prompts",
+      "stages": [
+        3,
+        4,
+        6
+      ],
+      "file": "product-ugc-prompts.md",
+      "sha256": "29d838d0b05879471c2575d980adf88dba545627347ca5a3db46e6cadfbb3cd0"
+    },
+    {
+      "id": "brief-and-revision-prompts-001",
+      "title": "Second Brain — Visual Companion / p.3",
+      "source": "Second Brain — Visual Companion.pdf",
+      "pages": [
+        3
+      ],
+      "label": "PROMPT",
+      "category": "brief-and-revision-prompts",
+      "stages": [
+        1,
+        4,
+        6
+      ],
+      "file": "brief-and-revision-prompts.md",
+      "sha256": "e7e81c56d95e6a1f8f890a288f70d8d9d365297ebd8cab9d9836e48a6cb625cf"
+    },
+    {
+      "id": "brief-and-revision-prompts-002",
+      "title": "Second Brain — Visual Companion / p.3",
+      "source": "Second Brain — Visual Companion.pdf",
+      "pages": [
+        3
+      ],
+      "label": "PROMPT",
+      "category": "brief-and-revision-prompts",
+      "stages": [
+        1,
+        4,
+        6
+      ],
+      "file": "brief-and-revision-prompts.md",
+      "sha256": "c6c204ce4e109ed631b8da7b845c05e9b8287650f924b62024d2c66e805d3b05"
+    },
+    {
+      "id": "brief-and-revision-prompts-003",
+      "title": "Second Brain — Visual Companion / p.6",
+      "source": "Second Brain — Visual Companion.pdf",
+      "pages": [
+        6
+      ],
+      "label": "PROMPT",
+      "category": "brief-and-revision-prompts",
+      "stages": [
+        1,
+        4,
+        6
+      ],
+      "file": "brief-and-revision-prompts.md",
+      "sha256": "5837ad42aeef5c6011dc8e7e4f5c2729e4929f59fce4815b3fb5b6d1299315a7"
+    },
+    {
+      "id": "brief-and-revision-prompts-004",
+      "title": "Second Brain — Visual Companion / p.8",
+      "source": "Second Brain — Visual Companion.pdf",
+      "pages": [
+        8
+      ],
+      "label": "PROMPT",
+      "category": "brief-and-revision-prompts",
+      "stages": [
+        1,
+        4,
+        6
+      ],
+      "file": "brief-and-revision-prompts.md",
+      "sha256": "b22e93fb31890ffd1c8a617d1a2d3b891a826611b7e7782f73fbcde2d85810ab"
+    },
+    {
+      "id": "brief-and-revision-prompts-005",
+      "title": "Second Brain — Visual Companion / p.9",
+      "source": "Second Brain — Visual Companion.pdf",
+      "pages": [
+        9
+      ],
+      "label": "PROMPT",
+      "category": "brief-and-revision-prompts",
+      "stages": [
+        1,
+        4,
+        6
+      ],
+      "file": "brief-and-revision-prompts.md",
+      "sha256": "7cbb95bda8fba1f976250443d231eb7143160667a05383450243773912e68942"
+    },
+    {
+      "id": "brief-and-revision-prompts-006",
+      "title": "Second Brain — Visual Companion / p.11",
+      "source": "Second Brain — Visual Companion.pdf",
+      "pages": [
+        11
+      ],
+      "label": "PROMPT",
+      "category": "brief-and-revision-prompts",
+      "stages": [
+        1,
+        4,
+        6
+      ],
+      "file": "brief-and-revision-prompts.md",
+      "sha256": "42f295a2706c4a36e27fbeb5ee471cc1ac77cee89bcd2e54efa9a048c90e35f0"
+    },
+    {
+      "id": "brief-and-revision-prompts-007",
+      "title": "Second Brain — Visual Companion / p.11",
+      "source": "Second Brain — Visual Companion.pdf",
+      "pages": [
+        11
+      ],
+      "label": "PROMPT",
+      "category": "brief-and-revision-prompts",
+      "stages": [
+        1,
+        4,
+        6
+      ],
+      "file": "brief-and-revision-prompts.md",
+      "sha256": "4d852bf4619651664b231025b36720562ab7446dcde683cef0b0f0a0d1f58521"
+    }
+  ]
+}

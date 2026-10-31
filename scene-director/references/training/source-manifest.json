@@ -1,0 +1,146 @@
+{
+  "sources": [
+    {
+      "name": ".DS_Store",
+      "sha256": "074c24e801bbafb32e9262cfdbe4afaf48d8b2f7682c4f6f97d3cc54afac6053",
+      "size": 6148,
+      "prompt_count": 0
+    },
+    {
+      "name": "CINEIMAGE skill.zip",
+      "sha256": "19ff875e4750dc73f6243288834e7418e1bd57e61987bbff5f29316452982526",
+      "size": 15837,
+      "markdown": [
+        {
+          "member": "cineimage-soul/SKILL.md",
+          "sha256": "b4f2469a00f528ce2d835aaab4b91471ef7e923dd5f3ec8673b63689cbb4bc92"
+        }
+      ],
+      "prompt_count": 0,
+      "bundled_skill": "source-skills/cineimage-soul.md"
+    },
+    {
+      "name": "Camera — Shot Sizes, Angles and Movement.pdf",
+      "sha256": "0801b692f83df5e4ea875cb5b5bd217fc96464b43b6036d43802f3026a172700",
+      "size": 20092123,
+      "pages": 20,
+      "prompt_count": 28
+    },
+    {
+      "name": "Create and Edit Assets — Visual Companion.pdf",
+      "sha256": "03c6a5a35789b979cbf08be52873244f46cf45b5ed602228c33c782ba7b4d265",
+      "size": 62689126,
+      "pages": 31,
+      "prompt_count": 9
+    },
+    {
+      "name": "Direct Your Own Scene.pdf",
+      "sha256": "30da6bac28e27d7c5827cdbb3fca14877d7af814d4b2b05ad03a19bc7ef4d860",
+      "size": 1992093,
+      "pages": 13,
+      "prompt_count": 7
+    },
+    {
+      "name": "Image and Prompt Library.pdf",
+      "sha256": "1ef2eac483eb396379b970319982743785e8306d31824ae20ba2d854fe6e83c1",
+      "size": 29317876,
+      "pages": 27,
+      "prompt_count": 26
+    },
+    {
+      "name": "Lesson-3-Final-Assets.zip",
+      "sha256": "bce0494688c9f0c914d200aa3241f1c78b06d3827c67fa1ed7368b3f361640bb",
+      "size": 13630255,
+      "markdown": [
+        {
+          "member": "zip/Lesson3-ugc-video-creator.md",
+          "sha256": "7ad502a6bd2a98a9dad9f25d1bc2bc4c36dff097e64a953954d646915f3a940f"
+        }
+      ],
+      "prompt_count": 0,
+      "duplicate_ugc_matches": true,
+      "image_assets": [
+        {
+          "member": "zip/03_Location_Harlem.png",
+          "sha256": "75afc7a244416bbeb9dbbd33f4610eba6cf944c61e32a4653b9069d8b16da624"
+        },
+        {
+          "member": "zip/05_Location_Brooklyn_Pier.png",
+          "sha256": "4b6553749bdd6165aa86a776956c82388bc4a85f71045150baaae834b2d59e48"
+        },
+        {
+          "member": "zip/04_Location_West_Village.png",
+          "sha256": "8be03aeb3494f1c037f55eb2012d037e1f1a904335a42d40fdbfeceb8c425866"
+        },
+        {
+          "member": "zip/01_Glasses.png",
+          "sha256": "c734ee82dfc30cff1e35fbbf3fcca9ad7bb996134f461bdb1f78dd80e0629391"
+        },
+        {
+          "member": "zip/02_Actress.png",
+          "sha256": "27ad4f606543bc61f89922f6eef1ede5aaf75fbb6789eda8df775bc3e00821dd"
+        }
+      ],
+      "image_policy": "Images remain in the supplied archive; public skill includes prompts and instructions, not an asset pack."
+    },
+    {
+      "name": "Lesson3-ugc-video-creator.md",
+      "sha256": "7ad502a6bd2a98a9dad9f25d1bc2bc4c36dff097e64a953954d646915f3a940f",
+      "size": 13505,
+      "prompt_count": 0,
+      "bundled_skill": "source-skills/ugc-video-creator.md"
+    },
+    {
+      "name": "Product Images and Ads — Visual Companion.pdf",
+      "sha256": "4af97b4fa8322032d3f2d5847a617c7ac1df64f7b9807be5b5ca27e8ca600657",
+      "size": 10157883,
+      "pages": 17,
+      "prompt_count": 10
+    },
+    {
+      "name": "Second Brain — Visual Companion.pdf",
+      "sha256": "b7dff1e1db66aa2ed548ee56f8b282c1f19bdd7c386d5e985fc116c0a14e2db6",
+      "size": 3943237,
+      "pages": 18,
+      "prompt_count": 7
+    },
+    {
+      "name": "Seedance Prompter skill.zip",
+      "sha256": "9314f770d3ebd0ebacbd7cae4468330d6bc22ce9126860c29099c751517a722e",
+      "size": 10697,
+      "markdown": [
+        {
+          "member": "cinedance-lite/SKILL.md",
+          "sha256": "5b6f7bc2943f9963f6fb976668d4c55f23e66ffdb37ad21c5afdf568249bd999"
+        }
+      ],
+      "prompt_count": 0,
+      "bundled_skill": "source-skills/cinedance-lite.md"
+    },
+    {
+      "name": "Shot Sizes and Prompting.pdf",
+      "sha256": "8300ab09b311236d0805b3e08e778233aa901d0b76607ab896c6aa1eb3cef205",
+      "size": 3743360,
+      "pages": 9,
+      "prompt_count": 2
+    },
+    {
+      "name": "Your First Video — Visual Companion.pdf",
+      "sha256": "8965eff29ce1b46eb2ac3dfd167d396d39e8be4964ad2f65a44c9bffc32f5670",
+      "size": 3896442,
+      "pages": 17,
+      "prompt_count": 13
+    }
+  ],
+  "deduplication": [
+    "CINEIMAGE embedded PDF attachments match the standalone skill byte for byte.",
+    "CINEDANCE embedded PDF attachment matches the standalone skill byte for byte.",
+    "UGC Markdown in Lesson-3-Final-Assets.zip matches the supplied standalone Markdown."
+  ],
+  "source_skill_licenses": {
+    "cinedance-lite": "MIT, as declared in source frontmatter",
+    "cineimage-soul": "No license declaration found in supplied skill",
+    "ugc-video-creator": "No license declaration found in supplied skill"
+  },
+  "scope": "User-supplied instructional text and prompt examples. No original PDF files, course images, user project media, or account data bundled."
+}
