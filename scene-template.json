@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "skill_version": "0.1.21",
+  "skill_version": "0.2.1",
   "applied_skills": [],
   "library_index_path": null,
   "scene_id": null,
@@ -52,6 +52,8 @@
   "assets": [],
   "handle_bindings": [],
   "previz": {
+    "engine": null,
+    "engine_version": null,
     "project_path": null,
     "camera_path": null,
     "browser_checked": false,
@@ -127,5 +129,27 @@
     "job_ids": [],
     "coverage_verified": false,
     "user_feedback": []
+  },
+  "training_usage": [],
+  "provider_comparison": {
+    "package_version": null,
+    "checked_at": null,
+    "routes": [],
+    "selected_route": null,
+    "reason": null
+  },
+  "provider_feedback": [],
+  "instagram_delivery": {
+    "status": "not_offered",
+    "cover_path": null,
+    "caption_path": null,
+    "caption": null,
+    "account": null,
+    "approved_package_version": null,
+    "publication_authorized": false,
+    "publication_status": "not_requested",
+    "job_or_post_id": null,
+    "url": null,
+    "limitations": []
   }
 }

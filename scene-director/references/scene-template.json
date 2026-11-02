@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "skill_version": "0.2.0",
+  "skill_version": "0.2.1",
   "applied_skills": [],
   "library_index_path": null,
   "scene_id": null,
@@ -52,6 +52,8 @@
   "assets": [],
   "handle_bindings": [],
   "previz": {
+    "engine": null,
+    "engine_version": null,
     "project_path": null,
     "camera_path": null,
     "browser_checked": false,
