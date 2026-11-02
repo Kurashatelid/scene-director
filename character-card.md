@@ -18,13 +18,17 @@
 
 ## Шаблон промпта
 
-Create one unified photographic character reference card for {HANDLE}. One large close-up portrait with detailed natural facial features, plus four full-body views of this same person: front, left profile, rear, right profile. Use the supplied portrait as the sole facial identity source. Keep the same hair, body proportions and complete outfit across the card. Show the full head and shoes in each full-body view. Cover only the visible facial region in each full-body view with a flat opaque white patch; no facial features may remain there. Keep hair, skull outline, neck and clothing intact. The rear view shows the natural back of the head without a white patch on the hair. The close-up face remains fully detailed. Neutral consistent studio background and light, clear panel layout, one exact label "{HANDLE}". One person only. Outfit: {OUTFIT}.
+Подставь выбранный визуальный стиль из [animation.md](animation.md): для фотографической сцены — фотографическая подача, для анимации — согласованная рисовка/материалы и пропорции. Не добавляй фотографическую кожу или реалистичную анатомию к стилизованному персонажу по умолчанию.
+
+Create one unified character reference card for {HANDLE} in {VISUAL_STYLE}. One large close-up portrait with clear facial features in the chosen style, plus four full-body views of this same character: front, left profile, rear, right profile. Use the supplied portrait as the sole facial identity source. Keep the same hair, body proportions and complete outfit across the card. Show the full head and shoes in each full-body view. Cover only the visible facial region in each full-body view with a flat opaque white patch; no facial features may remain there. Keep hair, skull outline, neck and clothing intact. The rear view shows the back of the head without a white patch on the hair. The close-up face remains fully detailed in the chosen style. Neutral consistent studio background and light, clear panel layout, one exact label "{HANDLE}". One character only. Outfit: {OUTFIT}.
 
 ## Роль карточки в видеопромпте
 
 {HANDLE} = {реальный вход модели}: крупный портрет определяет лицо; четыре фигуры определяют телосложение, волосы и одежду. Не переносить панели, фон, подпись или белые маски в кадр. В финальном видео у {HANDLE} нормальное лицо, согласованное с крупным портретом. Служебный вход назначай по фактическому порядку прикрепления; @имя не заменяет asset ID.
 
 ## Жизненность кастинга
+
+Этот раздел относится к фотографическим персонажам. Для анимации оцени согласованность выбранного дизайна и выразительность по animation.md; требования к порам, фотографической коже и естественным пропорциям не подменяют утверждённый стиль. Формат карточки и сохранение идентичности действуют в обоих случаях.
 
 Для нового персонажа сочетай character-consistency (устойчивые отличительные признаки) и cineimage-soul (наблюдаемая фотографическая подача). Имя навыка не гарантирует качество: оцени полученное изображение.
 
