@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "skill_version": "0.2.2",
+  "skill_version": "0.2.3",
   "applied_skills": [],
   "library_index_path": null,
   "scene_id": null,
@@ -29,6 +29,14 @@
     "motion_rules": [],
     "reference_paths": [],
     "status": "not_selected"
+  },
+  "reference_strategy": {
+    "mode": null,
+    "sources": [],
+    "previz_usage": null,
+    "preserve": [],
+    "reconstruction_limits": [],
+    "actual_inputs_checked": false
   },
   "script_versions": [],
   "active_script_version": null,
