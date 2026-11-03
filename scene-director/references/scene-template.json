@@ -1,11 +1,19 @@
 {
   "schema_version": 2,
-  "skill_version": "0.2.3",
+  "skill_version": "0.2.4",
   "applied_skills": [],
   "library_index_path": null,
   "scene_id": null,
   "title": null,
   "stage": "script",
+  "workflow": {
+    "review_mode": null,
+    "selected_by": null,
+    "package_version": null,
+    "author_review_status": "not_presented",
+    "approved_package_version": null,
+    "decisions": []
+  },
   "brief": {
     "idea": null,
     "opening": null,
