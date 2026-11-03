@@ -1,19 +1,105 @@
 {
-  "schema_version": 2,
-  "skill_version": "0.2.4",
+  "schema_version": 3,
+  "skill_version": "0.3.1",
+  "active_contract": {
+    "id": null,
+    "status": "draft",
+    "scope": {
+      "request": null,
+      "allowed_actions": [],
+      "stop_after": null
+    },
+    "next_action": null,
+    "script_version": null,
+    "languages": {
+      "spoken": null,
+      "visible_text": null,
+      "subtitles": null
+    },
+    "utterances": [],
+    "duration_sec": null,
+    "aspect_ratio": null,
+    "route": {
+      "service": null,
+      "model": null,
+      "input_strategy": null,
+      "video_required": null,
+      "settings": {},
+      "inputs": [],
+      "preserve": [],
+      "reconstruction_limits": []
+    },
+    "previz": {
+      "engine": null,
+      "engine_version": null,
+      "role": "local_check",
+      "engine_choice_reason": null,
+      "effort_expectation": null,
+      "settings": {},
+      "check_questions": [],
+      "stop_criteria": []
+    },
+    "selected_artifacts": [],
+    "role_coverage": [],
+    "action_checkpoints": [],
+    "temporal_constraints": [],
+    "observations": {
+      "events": [],
+      "states": []
+    },
+    "evidence_findings": [],
+    "qa_summary": {
+      "report_id": null,
+      "artifact_id": null,
+      "status": "unknown"
+    },
+    "reports": [],
+    "user_selection": {
+      "artifact_id": null,
+      "accepted": false,
+      "accepted_known_limits": [],
+      "evidence_ref": null
+    },
+    "preflight": {
+      "intent": "prepare",
+      "contract_id": null,
+      "input_bindings_verified": false,
+      "bindings": [],
+      "quote": null
+    },
+    "execution_limits": {
+      "local_time_budget_minutes": null,
+      "paid_budget": {
+        "amount": null,
+        "currency": null
+      },
+      "max_runs": 0,
+      "runs_started": 0,
+      "automatic_local_repair_cap": 2
+    },
+    "visual_direction": {
+      "medium": null,
+      "style": null,
+      "technique": null,
+      "motion_rules": [],
+      "reference_paths": [],
+      "status": "not_selected"
+    },
+    "workflow": {
+      "review_mode": null,
+      "selected_by": null,
+      "package_version": null,
+      "author_review_status": "not_presented",
+      "approved_package_version": null,
+      "decisions": []
+    }
+  },
+  "contract_history": [],
   "applied_skills": [],
   "library_index_path": null,
   "scene_id": null,
   "title": null,
   "stage": "script",
-  "workflow": {
-    "review_mode": null,
-    "selected_by": null,
-    "package_version": null,
-    "author_review_status": "not_presented",
-    "approved_package_version": null,
-    "decisions": []
-  },
   "brief": {
     "idea": null,
     "opening": null,
@@ -87,7 +173,10 @@
       "established": [],
       "open_questions": [],
       "checks": []
-    }
+    },
+    "role": null,
+    "effort_expectation": null,
+    "engine_choice_reason": null
   },
   "audio": {
     "mode": null,
